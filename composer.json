@@ -1,0 +1,23 @@
+{
+    "name": "enjcom/library",
+    "type": "library",
+    "description": "Enjcom Company PHP library",
+    "homepage": "www.enjcom.com",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "최용은",
+            "email": "icye0070i@gmail.co.kr",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "enjcom\\": "src/"
+        }
+    },
+    "require": {
+
+    }
+}
